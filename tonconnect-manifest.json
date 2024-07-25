@@ -1,0 +1,6 @@
+{
+  "name": "Tap Panda",
+  "description": "A fun game with TON wallet integration.",
+  "iconUrl": "https://your-app.com/icon.png",  // URL to your app's icon
+  "url": "https://your-app.com"  // URL to your app's homepage
+}
